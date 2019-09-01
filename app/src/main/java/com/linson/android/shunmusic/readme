@@ -1,0 +1,6 @@
+1.ready module ok
+2.check log ok.
+3.check db.  activity .open db. show db file ok.
+4.move lib and check function ok.
+
+测试一下图片.lib就收工了。
